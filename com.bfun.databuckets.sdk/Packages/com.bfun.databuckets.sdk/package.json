@@ -3,19 +3,22 @@
   "displayName": "com.bfun.databuckets.sdk",
   "description": "com.bfun.databuckets.sdk description goes here.",
   "keywords": [],
-  "version": "0.0.0",
+  "version": "1.0.6",
   "unity": "2021.3",
-  "documentationUrl": "https://github.com/Unity-UPM-Packages/com.bfun.databuckets.sdk#documentation",
-  "changelogUrl": "https://github.com/Unity-UPM-Packages/com.bfun.databuckets.sdk/releases",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/Databuckets-SDK#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/Databuckets-SDK/releases",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "repository": "https://github.com/Unity-UPM-Packages/com.bfun.databuckets.sdk.git",
-    "url": "https://github.com/Unity-UPM-Packages/com.bfun.databuckets.sdk.git"
+    "repository": "https://github.com/Unity-UPM-Packages/Databuckets-SDK.git",
+    "url": "https://github.com/Unity-UPM-Packages/Databuckets-SDK.git"
   },
   "author": {
     "name": "Unity-UPM-Packages",
     "url": "https://github.com/Unity-UPM-Packages"
   },
-  "dependencies": {}
+  "dependencies": {
+      "com.unity.nuget.newtonsoft-json": "3.0.2",
+      "com.unity.modules.unitywebrequest": "1.0.0"
+  }
 }
