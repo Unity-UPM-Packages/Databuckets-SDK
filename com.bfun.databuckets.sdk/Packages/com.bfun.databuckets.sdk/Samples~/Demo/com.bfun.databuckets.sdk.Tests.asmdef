@@ -1,0 +1,16 @@
+{
+    "name": "com.bfun.databuckets.sdk.Demo",
+    "rootNamespace": "com.bfun.databuckets.sdk.Demo",
+    "references": [
+        "com.bfun.databuckets.sdk"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
