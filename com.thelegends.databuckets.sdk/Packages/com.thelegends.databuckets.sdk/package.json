@@ -1,7 +1,7 @@
 {
-  "name": "com.bfun.databuckets.sdk",
-  "displayName": "com.bfun.databuckets.sdk",
-  "description": "com.bfun.databuckets.sdk description goes here.",
+  "name": "com.thelegends.databuckets.sdk",
+  "displayName": "Databuckets SDK",
+  "description": "Databuckets SDK description goes here.",
   "keywords": [],
   "version": "1.0.6",
   "unity": "2021.3",

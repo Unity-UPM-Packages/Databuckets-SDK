@@ -1,7 +1,9 @@
 {
-    "name": "com.bfun.databuckets.sdk",
-    "rootNamespace": "com.bfun.databuckets.sdk",
-    "references": [],
+    "name": "com.thelegends.databuckets.sdk.Demo",
+    "rootNamespace": "com.thelegends.databuckets.sdk.Demo",
+    "references": [
+        "com.thelegends.databuckets.sdk"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

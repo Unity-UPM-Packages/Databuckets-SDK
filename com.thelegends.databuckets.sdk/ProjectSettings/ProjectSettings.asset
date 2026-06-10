@@ -165,11 +165,11 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.com.bfun.databuckets.sdk
-    Lumin: com.com.bfun.databuckets.sdk
-    Standalone: com.com.bfun.databuckets.sdk
-    WebGL: com.com.bfun.databuckets.sdk
-    iPhone: com.com.bfun.databuckets.sdk
+    Android: com.com.thelegends.databuckets.sdk
+    Lumin: com.com.thelegends.databuckets.sdk
+    Standalone: com.com.thelegends.databuckets.sdk
+    WebGL: com.com.thelegends.databuckets.sdk
+    iPhone: com.com.thelegends.databuckets.sdk
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -822,14 +822,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: com.com.bfun.databuckets.sdk
+  metroPackageName: com.com.thelegends.databuckets.sdk
   metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: com.com.bfun.databuckets.sdk
+  metroApplicationDescription: com.com.thelegends.databuckets.sdk
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0

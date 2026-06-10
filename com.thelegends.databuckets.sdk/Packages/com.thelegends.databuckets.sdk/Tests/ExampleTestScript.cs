@@ -2,7 +2,7 @@
 
 using NUnit.Framework;
 
-namespace com.bfun.databuckets.sdk.Tests
+namespace com.thelegends.databuckets.sdk.Tests
 {
     internal class ExampleTestScript
     {

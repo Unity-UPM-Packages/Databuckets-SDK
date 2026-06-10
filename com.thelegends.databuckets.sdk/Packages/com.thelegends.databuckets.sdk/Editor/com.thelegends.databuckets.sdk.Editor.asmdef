@@ -1,10 +1,12 @@
 {
-    "name": "com.bfun.databuckets.sdk.Demo",
-    "rootNamespace": "com.bfun.databuckets.sdk.Demo",
+    "name": "com.thelegends.databuckets.sdk.Editor",
+    "rootNamespace": "com.thelegends.databuckets.sdk.Editor",
     "references": [
-        "com.bfun.databuckets.sdk"
+        "com.thelegends.databuckets.sdk"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

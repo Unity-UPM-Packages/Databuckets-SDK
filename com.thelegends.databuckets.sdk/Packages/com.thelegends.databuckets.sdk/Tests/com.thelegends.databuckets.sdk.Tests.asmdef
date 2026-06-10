@@ -1,10 +1,10 @@
 {
-    "name": "com.bfun.databuckets.sdk.Tests",
-    "rootNamespace": "com.bfun.databuckets.sdk.Tests",
+    "name": "com.thelegends.databuckets.sdk.Tests",
+    "rootNamespace": "com.thelegends.databuckets.sdk.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "com.bfun.databuckets.sdk"
+        "com.thelegends.databuckets.sdk"
     ],
     "includePlatforms": [
         "Editor"

@@ -1,7 +1,7 @@
-# com.bfun.databuckets.sdk
+# com.thelegends.databuckets.sdk
 
 
-A com.bfun.databuckets.sdk package for the [Unity](https://unity.com/) Game Engine.
+A com.thelegends.databuckets.sdk package for the [Unity](https://unity.com/) Game Engine.
 
 ## Installing
 
@@ -18,10 +18,10 @@ The recommended installation method is though the unity package manager.
   - Name: `What ever you want`
   - URL: `https://verdaccio.thelegends.io.vn/`
   - Scope(s):
-    - `com.bfun`
+    - `com.thelegends`
 - Open the Unity Package Manager window
 - Change the Registry from Unity to `My Registries`
-- Add the `com.bfun.databuckets.sdk` package
+- Add the `com.thelegends.databuckets.sdk` package
 
 ## Documentation
 
